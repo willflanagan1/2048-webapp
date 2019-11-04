@@ -1,0 +1,44 @@
+body {
+    background-color: #faf8ef;
+}
+
+.row-container {
+    width: 690px;
+    height:690px;
+    background-color: #bbada0;
+    border-radius: 10px;
+    margin: 20px;
+    padding-left: 14px;
+    padding-top: 14px;
+}
+
+.tile {
+    background-color: rgba(238, 228, 218, 0.35);
+    float: left;
+    width: 150px;
+    height: 150px;
+    font-size: 60px;
+    vertical-align: middle;
+    line-height: 150px;
+    padding-left: 45px;
+    margin: 8px;
+    border-radius: 5px;
+}
+
+.menu-container {
+    display: flex;
+    height: 30px;
+    align-items: center;
+}
+
+#scoreboard {
+    margin-top: 15px;
+    margin-left: 30px;
+    width: 110px;
+}
+
+.button {
+    float: left;
+    margin-left: 15px;
+    margin-top: 17px;
+}
