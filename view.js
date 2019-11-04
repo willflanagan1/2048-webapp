@@ -1,4 +1,5 @@
 import Game from "./engine/game.js";
+import jquery from "./node_modules/jquery";
 
 let $root = $('#root');
 
