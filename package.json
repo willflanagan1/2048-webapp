@@ -1,0 +1,25 @@
+{
+  "name": "2048-webapp",
+  "version": "1.0.0",
+  "description": "This is my own web version of the 2048 game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willflanagan1/2048-webapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willflanagan1/2048-webapp/issues"
+  },
+  "homepage": "https://github.com/willflanagan1/2048-webapp#readme",
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "esm": "^3.2.25",
+    "jquery": "^3.4.1",
+    "keypress": "^0.2.1"
+  }
+}
