@@ -180,7 +180,7 @@ export const createTileRows = function (tileNumbers, numberOfRows) {
                 tile.style.backgroundColor = "#3c3a32";
                 tile.style.color = "white";
                 tile.style.paddingLeft = "7px";
-                tile.style.fontSize = "56px"
+                tile.style.fontSize = "55px"
             }
             tileRowContainer.append(tile);
             x++;
